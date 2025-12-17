@@ -29,7 +29,7 @@ Administrador:
 
 Usuário: admin (ou personalizável)
 
-Senha inicial: D@13m@04a@2010
+Senha inicial: 
 
 Pode: criar/editar/excluir usuários, resetar senhas
 
